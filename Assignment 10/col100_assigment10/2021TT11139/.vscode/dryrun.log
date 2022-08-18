@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/jaskaran/Desktop/col100_assigment10/ass10_starter_code'
+gcc PythonList.c
+./a.out < input3.txt
+make: Leaving directory `/Users/jaskaran/Desktop/col100_assigment10/ass10_starter_code'
+ 

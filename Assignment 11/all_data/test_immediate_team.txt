@@ -1,0 +1,11 @@
+1 2 4 6 -1 -1 7 -1 -1 5 -1 9 -1 -1 3 8 -1 -1 -1
+10
+immediate_team 1
+immediate_team 2
+immediate_team 3
+immediate_team 4
+immediate_team 5
+immediate_team 6
+immediate_team 7
+immediate_team 8
+immediate_team 9

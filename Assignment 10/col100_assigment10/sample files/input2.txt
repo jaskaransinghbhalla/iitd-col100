@@ -1,0 +1,48 @@
+46
+append 520
+append 41
+append 35
+append 22
+append 19
+print
+sort
+print
+swap 0
+print
+sort
+print
+index_into 3 2 0 1
+clear
+append 11
+append 22
+append 33
+append 44
+print
+erase 0
+print
+swap 0
+print
+sort
+print
+index_into 4 99 2 94 1
+print
+setitem 0 100
+print
+getitem 0
+getitem 1
+getitem 2
+sort
+print
+reverse
+print
+sort
+print
+insert 0 200
+insert 0 1001
+insert 99 1
+print
+pop
+print
+count 1001
+len
+print

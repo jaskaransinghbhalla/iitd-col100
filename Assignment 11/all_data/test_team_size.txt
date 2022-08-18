@@ -1,0 +1,13 @@
+1 2 4 6 -1 -1 7 -1 -1 5 -1 9 -1 -1 3 8 -1 -1 -1
+11
+team_size 0
+team_size 1
+team_size 2
+team_size 3
+team_size 4
+team_size 5
+team_size 6
+team_size 7
+team_size 8
+team_size 9
+team_size 10

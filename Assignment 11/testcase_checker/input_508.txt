@@ -1,0 +1,857 @@
+1 2 5 10 14 -1 48 -1 69 -1 -1 19 38 62 -1 -1 40 41 58 -1 -1 -1 -1 61 -1 -1 11 13 16 22 -1 55 -1 73 -1 -1 -1 46 -1 -1 23 27 77 -1 -1 66 -1 -1 63 72 -1 -1 -1 3 4 37 54 84 -1 -1 -1 51 -1 -1 12 25 -1 -1 71 76 -1 -1 -1 17 26 -1 44 50 -1 -1 -1 28 30 36 -1 56 -1 -1 -1 31 35 -1 -1 33 -1 -1 6 15 29 47 64 68 -1 -1 65 -1 -1 74 -1 82 -1 -1 -1 20 78 -1 79 81 -1 -1 -1 24 59 -1 83 -1 -1 -1 7 9 18 39 -1 -1 85 -1 -1 21 43 45 70 -1 -1 -1 -1 34 57 -1 67 -1 -1 53 60 -1 -1 -1 8 32 42 -1 49 -1 -1 52 -1 -1 75 -1 80 -1 -1 
+1000
+get_employees
+diameter
+team_size 1
+team_size 62
+level 27
+team_size 30
+distance 40 29
+immediate_team 19
+distance 46 83
+team_size 22
+boss 60
+team_size 81
+distance 75 63
+distance 4 65
+employees_at_same_level 10
+distance 47 45
+distance 22 53
+employees_at_same_level 22
+immediate_team 66
+immediate_team 81
+level 66
+boss 62
+team_size 19
+immediate_team 60
+employees_at_same_level 61
+immediate_team 26
+boss 5
+team_size 38
+employees_at_same_level 17
+team_size 61
+level 15
+level 24
+level 27
+employees_at_same_level 20
+employees_at_same_level 82
+team_size 31
+employees_at_same_level 11
+team_size 60
+level 20
+boss 18
+immediate_team 12
+team_size 35
+employees_at_same_level 53
+distance 81 59
+distance 77 28
+team_size 8
+team_size 60
+employees_at_same_level 66
+employees_at_same_level 84
+team_size 77
+boss 26
+employees_at_same_level 65
+immediate_team 84
+boss 32
+distance 73 7
+team_size 59
+team_size 32
+immediate_team 56
+level 3
+boss 47
+employees_at_same_level 55
+team_size 11
+boss 73
+level 5
+level 23
+employees_at_same_level 47
+level 64
+immediate_team 29
+immediate_team 14
+boss 36
+boss 50
+boss 63
+level 3
+immediate_team 72
+immediate_team 55
+distance 19 44
+level 23
+employees_at_same_level 78
+distance 33 67
+distance 24 46
+team_size 55
+distance 77 30
+team_size 49
+team_size 15
+level 54
+immediate_team 70
+distance 36 54
+level 1
+employees_at_same_level 21
+immediate_team 48
+team_size 19
+team_size 47
+employees_at_same_level 25
+immediate_team 50
+employees_at_same_level 83
+employees_at_same_level 62
+level 57
+employees_at_same_level 7
+immediate_team 23
+distance 4 58
+level 34
+distance 22 51
+team_size 53
+boss 11
+boss 10
+level 8
+immediate_team 28
+boss 27
+distance 34 57
+employees_at_same_level 2
+team_size 36
+team_size 62
+level 43
+immediate_team 6
+boss 63
+employees_at_same_level 58
+employees_at_same_level 18
+level 37
+employees_at_same_level 23
+team_size 2
+boss 74
+level 19
+team_size 14
+employees_at_same_level 71
+boss 51
+immediate_team 40
+immediate_team 7
+employees_at_same_level 7
+employees_at_same_level 37
+distance 17 67
+distance 9 10
+level 28
+level 28
+level 31
+immediate_team 8
+boss 9
+immediate_team 70
+level 6
+team_size 55
+immediate_team 33
+employees_at_same_level 28
+immediate_team 38
+level 21
+immediate_team 24
+boss 74
+employees_at_same_level 49
+team_size 68
+employees_at_same_level 59
+level 39
+boss 40
+immediate_team 36
+distance 52 28
+distance 67 6
+distance 55 52
+level 36
+employees_at_same_level 62
+distance 20 38
+distance 78 28
+employees_at_same_level 29
+immediate_team 11
+team_size 65
+distance 2 17
+immediate_team 41
+distance 17 16
+team_size 23
+immediate_team 84
+distance 67 2
+boss 69
+level 58
+level 12
+level 75
+immediate_team 82
+boss 65
+employees_at_same_level 7
+team_size 50
+immediate_team 68
+level 17
+employees_at_same_level 9
+distance 54 38
+boss 18
+immediate_team 36
+immediate_team 65
+immediate_team 18
+boss 53
+distance 59 74
+employees_at_same_level 10
+immediate_team 30
+level 58
+level 15
+level 84
+team_size 67
+distance 67 58
+team_size 78
+employees_at_same_level 72
+distance 83 53
+employees_at_same_level 53
+employees_at_same_level 61
+distance 15 46
+employees_at_same_level 51
+boss 44
+immediate_team 48
+employees_at_same_level 59
+distance 54 85
+immediate_team 28
+level 40
+boss 73
+employees_at_same_level 40
+boss 49
+team_size 85
+employees_at_same_level 46
+team_size 10
+distance 56 33
+team_size 54
+distance 20 48
+boss 43
+level 6
+level 16
+boss 81
+team_size 11
+level 81
+employees_at_same_level 27
+level 78
+team_size 27
+immediate_team 3
+distance 25 28
+employees_at_same_level 7
+level 69
+boss 25
+team_size 1
+level 60
+team_size 26
+boss 34
+boss 19
+distance 59 14
+immediate_team 17
+immediate_team 14
+distance 62 44
+team_size 84
+boss 42
+boss 2
+distance 38 16
+employees_at_same_level 34
+employees_at_same_level 25
+team_size 6
+boss 4
+employees_at_same_level 68
+immediate_team 4
+distance 38 31
+boss 22
+team_size 3
+level 33
+immediate_team 69
+distance 76 78
+boss 73
+employees_at_same_level 57
+employees_at_same_level 13
+level 65
+team_size 31
+team_size 31
+employees_at_same_level 32
+level 45
+level 84
+distance 55 27
+distance 43 31
+employees_at_same_level 22
+distance 67 79
+immediate_team 6
+team_size 44
+team_size 73
+immediate_team 62
+level 85
+team_size 6
+team_size 60
+boss 68
+level 47
+level 79
+boss 83
+team_size 75
+distance 37 6
+team_size 18
+immediate_team 30
+boss 2
+team_size 19
+employees_at_same_level 5
+boss 6
+team_size 62
+employees_at_same_level 49
+boss 76
+boss 41
+distance 37 70
+immediate_team 63
+employees_at_same_level 38
+distance 73 18
+immediate_team 81
+distance 66 38
+boss 8
+employees_at_same_level 45
+immediate_team 52
+immediate_team 11
+team_size 6
+level 76
+level 64
+employees_at_same_level 39
+immediate_team 7
+team_size 76
+level 27
+boss 33
+distance 56 25
+team_size 4
+boss 58
+level 31
+immediate_team 5
+immediate_team 78
+immediate_team 13
+employees_at_same_level 35
+immediate_team 47
+employees_at_same_level 41
+employees_at_same_level 36
+immediate_team 1
+immediate_team 44
+boss 67
+distance 63 2
+boss 1
+immediate_team 64
+team_size 51
+boss 66
+employees_at_same_level 49
+distance 82 25
+employees_at_same_level 16
+employees_at_same_level 10
+level 66
+team_size 57
+level 25
+immediate_team 48
+boss 59
+distance 11 73
+team_size 79
+boss 25
+boss 69
+immediate_team 13
+boss 16
+team_size 43
+boss 50
+level 74
+boss 67
+immediate_team 60
+immediate_team 68
+distance 36 70
+boss 21
+immediate_team 84
+distance 22 55
+distance 80 82
+distance 77 61
+boss 34
+level 11
+level 82
+level 72
+team_size 23
+immediate_team 49
+immediate_team 34
+level 39
+immediate_team 43
+distance 38 8
+immediate_team 62
+team_size 31
+immediate_team 1
+level 66
+employees_at_same_level 67
+employees_at_same_level 59
+distance 36 23
+distance 76 82
+employees_at_same_level 78
+distance 83 24
+team_size 30
+level 32
+employees_at_same_level 40
+team_size 20
+team_size 62
+level 56
+level 27
+team_size 59
+team_size 44
+distance 75 41
+level 5
+employees_at_same_level 7
+team_size 44
+team_size 42
+employees_at_same_level 73
+distance 56 34
+level 10
+employees_at_same_level 12
+team_size 34
+level 59
+level 80
+distance 65 53
+employees_at_same_level 11
+level 22
+distance 32 56
+immediate_team 5
+employees_at_same_level 84
+level 37
+distance 14 63
+employees_at_same_level 20
+employees_at_same_level 82
+employees_at_same_level 37
+distance 32 22
+team_size 7
+team_size 64
+boss 35
+distance 68 34
+immediate_team 82
+employees_at_same_level 84
+level 66
+immediate_team 19
+immediate_team 46
+level 38
+team_size 36
+distance 33 76
+boss 9
+immediate_team 6
+level 5
+distance 6 72
+team_size 65
+employees_at_same_level 42
+employees_at_same_level 59
+level 46
+team_size 58
+employees_at_same_level 45
+boss 13
+level 28
+distance 58 15
+boss 68
+employees_at_same_level 74
+boss 14
+team_size 70
+team_size 24
+team_size 66
+boss 42
+immediate_team 4
+team_size 24
+boss 29
+boss 68
+distance 35 6
+level 60
+distance 61 27
+level 52
+immediate_team 54
+team_size 79
+level 71
+employees_at_same_level 47
+distance 17 3
+level 65
+level 77
+team_size 50
+team_size 82
+boss 63
+boss 54
+boss 68
+immediate_team 60
+immediate_team 58
+employees_at_same_level 3
+boss 20
+team_size 38
+boss 51
+team_size 56
+team_size 38
+level 5
+employees_at_same_level 68
+level 74
+immediate_team 40
+boss 1
+immediate_team 85
+immediate_team 27
+immediate_team 21
+team_size 29
+employees_at_same_level 2
+distance 16 12
+employees_at_same_level 34
+employees_at_same_level 3
+employees_at_same_level 75
+boss 83
+boss 68
+boss 23
+team_size 41
+level 1
+employees_at_same_level 2
+team_size 71
+immediate_team 9
+boss 35
+employees_at_same_level 35
+immediate_team 29
+employees_at_same_level 36
+employees_at_same_level 62
+immediate_team 81
+immediate_team 72
+boss 59
+distance 56 41
+immediate_team 39
+employees_at_same_level 55
+immediate_team 5
+boss 80
+distance 14 47
+level 52
+distance 25 75
+employees_at_same_level 78
+immediate_team 39
+team_size 33
+level 69
+immediate_team 16
+level 43
+level 80
+team_size 6
+immediate_team 56
+immediate_team 40
+employees_at_same_level 85
+team_size 50
+boss 43
+level 79
+employees_at_same_level 4
+employees_at_same_level 68
+team_size 31
+immediate_team 39
+level 39
+team_size 47
+employees_at_same_level 23
+boss 26
+boss 52
+immediate_team 38
+level 76
+team_size 80
+employees_at_same_level 44
+level 28
+team_size 27
+boss 42
+team_size 83
+boss 84
+distance 40 37
+team_size 5
+boss 1
+boss 46
+employees_at_same_level 84
+team_size 52
+distance 16 56
+employees_at_same_level 28
+team_size 84
+level 27
+distance 68 45
+employees_at_same_level 20
+boss 24
+employees_at_same_level 64
+immediate_team 48
+employees_at_same_level 47
+distance 47 59
+team_size 65
+boss 13
+team_size 1
+boss 51
+boss 75
+immediate_team 17
+level 46
+team_size 21
+level 17
+employees_at_same_level 84
+immediate_team 2
+level 7
+level 53
+team_size 12
+distance 2 75
+boss 38
+boss 29
+employees_at_same_level 7
+level 56
+level 84
+distance 9 74
+immediate_team 53
+team_size 82
+immediate_team 76
+boss 56
+level 63
+distance 12 81
+employees_at_same_level 44
+immediate_team 24
+employees_at_same_level 75
+employees_at_same_level 6
+team_size 32
+immediate_team 51
+distance 35 15
+level 26
+immediate_team 21
+immediate_team 77
+boss 3
+team_size 4
+boss 38
+employees_at_same_level 5
+boss 35
+team_size 16
+level 19
+boss 36
+boss 14
+boss 38
+boss 83
+boss 15
+immediate_team 29
+immediate_team 14
+level 80
+distance 79 33
+level 19
+team_size 58
+immediate_team 73
+distance 30 11
+boss 79
+level 25
+distance 9 60
+employees_at_same_level 34
+level 44
+level 85
+immediate_team 23
+boss 57
+team_size 29
+employees_at_same_level 47
+employees_at_same_level 78
+boss 26
+immediate_team 82
+team_size 41
+level 28
+distance 35 64
+level 2
+boss 31
+level 60
+team_size 40
+employees_at_same_level 17
+team_size 19
+distance 7 59
+distance 10 44
+boss 24
+employees_at_same_level 56
+distance 16 55
+immediate_team 3
+employees_at_same_level 45
+employees_at_same_level 56
+distance 11 83
+level 85
+level 78
+boss 51
+distance 52 51
+boss 61
+team_size 12
+level 82
+distance 75 1
+distance 28 69
+employees_at_same_level 82
+distance 66 12
+employees_at_same_level 73
+immediate_team 69
+distance 43 22
+team_size 81
+level 80
+team_size 61
+employees_at_same_level 72
+employees_at_same_level 31
+immediate_team 51
+boss 18
+employees_at_same_level 58
+level 35
+boss 71
+employees_at_same_level 50
+immediate_team 43
+team_size 39
+level 24
+immediate_team 8
+team_size 48
+distance 30 43
+team_size 12
+employees_at_same_level 30
+distance 40 81
+immediate_team 76
+boss 52
+employees_at_same_level 51
+level 53
+immediate_team 59
+distance 85 50
+employees_at_same_level 49
+boss 78
+employees_at_same_level 36
+immediate_team 78
+employees_at_same_level 65
+boss 44
+team_size 2
+immediate_team 64
+immediate_team 18
+immediate_team 47
+employees_at_same_level 65
+distance 80 66
+employees_at_same_level 36
+immediate_team 17
+team_size 66
+immediate_team 40
+level 32
+distance 78 48
+immediate_team 73
+boss 25
+boss 52
+distance 55 68
+immediate_team 45
+level 29
+team_size 59
+employees_at_same_level 85
+immediate_team 81
+boss 73
+team_size 42
+employees_at_same_level 4
+boss 10
+employees_at_same_level 30
+boss 21
+team_size 71
+employees_at_same_level 18
+boss 71
+team_size 46
+team_size 79
+team_size 56
+distance 13 77
+employees_at_same_level 26
+level 74
+team_size 24
+employees_at_same_level 23
+distance 76 28
+team_size 25
+level 53
+distance 38 28
+employees_at_same_level 84
+boss 29
+level 34
+team_size 30
+team_size 31
+distance 35 57
+distance 36 64
+employees_at_same_level 9
+boss 1
+distance 79 22
+distance 79 44
+employees_at_same_level 80
+team_size 73
+distance 42 60
+employees_at_same_level 24
+immediate_team 83
+distance 15 60
+boss 70
+boss 43
+immediate_team 16
+team_size 46
+level 78
+level 17
+boss 73
+immediate_team 17
+boss 77
+boss 19
+boss 49
+employees_at_same_level 83
+boss 62
+boss 45
+team_size 80
+immediate_team 61
+team_size 71
+team_size 84
+boss 55
+immediate_team 1
+level 33
+immediate_team 21
+employees_at_same_level 40
+immediate_team 38
+boss 17
+immediate_team 2
+immediate_team 36
+boss 19
+distance 83 80
+immediate_team 54
+distance 45 34
+immediate_team 14
+level 1
+boss 23
+distance 38 60
+distance 42 3
+boss 84
+distance 11 6
+immediate_team 55
+distance 45 71
+distance 70 9
+level 62
+immediate_team 45
+boss 23
+boss 60
+boss 54
+team_size 72
+team_size 65
+employees_at_same_level 66
+team_size 30
+team_size 31
+boss 16
+employees_at_same_level 75
+employees_at_same_level 11
+boss 28
+boss 11
+employees_at_same_level 80
+team_size 29
+level 7
+immediate_team 27
+team_size 78
+immediate_team 11
+level 15
+distance 31 74
+team_size 34
+immediate_team 43
+immediate_team 82
+distance 45 5
+employees_at_same_level 78
+immediate_team 65
+distance 39 62
+team_size 83
+level 63
+immediate_team 72
+team_size 48
+level 44
+boss 85
+immediate_team 69
+team_size 10
+level 26
+distance 38 76
+distance 24 2
+team_size 17
+immediate_team 56
+employees_at_same_level 1
+employees_at_same_level 78
+distance 19 76
+level 35
+level 58
+employees_at_same_level 24
+level 51
+employees_at_same_level 15
+immediate_team 57
+distance 81 7
+distance 2 11
+boss 39
+level 60
+employees_at_same_level 52
+level 81
+distance 64 34
+employees_at_same_level 63
+immediate_team 41
+distance 81 17
+employees_at_same_level 32
+immediate_team 3
+distance 26 30
+boss 35
+employees_at_same_level 83
+boss 71

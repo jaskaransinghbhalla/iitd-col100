@@ -1,0 +1,201 @@
+200
+print
+print
+sort 
+count 542
+print
+reverse
+print
+len
+insert 20 71
+erase 69
+insert 56 149
+print
+clear
+sort 
+swap 89
+print
+index_into 5 43 1 6 2 5 
+setitem 43 966
+insert 23 916
+index_into 18 40 2 5 35 8 10 10 23 33 14 48 6 42 24 1 11 19 0 
+erase 64
+swap 20
+len
+reverse
+swap 85
+swap 48
+append 331
+getitem 43
+swap 68
+insert 77 897
+index_into 4 19 31 23 16 
+append 64
+setitem 34 163
+print
+count 96
+len
+print
+print
+insert 85 254
+print
+len
+print
+reverse
+getitem 2
+count 115
+setitem 96 49
+pop
+erase 65
+clear
+getitem 4
+setitem 0 577
+setitem 14 197
+reverse
+append 288
+pop
+clear
+append 845
+insert 29 943
+len
+setitem 18 366
+erase 58
+print
+index_into 14 29 33 46 16 8 34 37 44 38 33 5 48 41 44 
+append 271
+reverse
+getitem 34
+setitem 70 542
+setitem 32 82
+getitem 13
+print
+pop
+print
+setitem 100 329
+setitem 69 475
+len
+index_into 17 3 25 39 25 0 24 1 23 48 45 8 34 47 20 29 1 42 
+append 215
+print
+insert 44 383
+clear
+pop
+reverse
+len
+clear
+print
+print
+pop
+getitem 54
+setitem 2 373
+len
+print
+swap 17
+clear
+swap 18
+print
+print
+clear
+print
+count 735
+append 746
+clear
+clear
+insert 99 452
+reverse
+index_into 3 31 30 48 
+append 838
+swap 15
+sort 
+swap 58
+pop
+print
+index_into 9 16 23 40 29 12 39 16 17 31 
+index_into 19 2 8 32 8 13 20 26 36 8 48 30 3 16 3 9 31 50 30 44 
+pop
+pop
+print
+clear
+reverse
+reverse
+len
+erase 39
+print
+print
+pop
+pop
+print
+setitem 48 913
+count 599
+swap 79
+print
+swap 34
+print
+pop
+print
+pop
+print
+len
+insert 60 554
+insert 11 923
+print
+insert 20 843
+clear
+swap 69
+reverse
+index_into 4 1 11 45 10 
+count 965
+print
+append 506
+erase 80
+clear
+print
+setitem 61 749
+print
+len
+insert 94 940
+print
+print
+reverse
+index_into 3 19 44 49 
+getitem 100
+clear
+reverse
+append 812
+print
+getitem 73
+print
+count 590
+clear
+setitem 16 587
+getitem 69
+swap 37
+print
+sort 
+reverse
+print
+print
+append 977
+print
+swap 81
+print
+print
+index_into 1 50 
+reverse
+clear
+count 520
+print
+count 976
+print
+index_into 19 27 11 9 2 44 28 18 26 44 48 33 12 13 20 25 40 47 16 5 
+sort 
+index_into 6 10 50 41 17 41 10 
+print
+index_into 15 28 23 45 22 13 27 34 12 47 8 20 19 13 43 21 
+len
+clear
+print
+print
+print
+print
+print

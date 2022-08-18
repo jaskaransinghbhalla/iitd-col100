@@ -1,0 +1,8 @@
+1 2 4 6 -1 -1 7 -1 -1 5 -1 9 -1 -1 3 8 -1 -1 -1
+6
+employees_at_same_level 0
+employees_at_same_level 1
+employees_at_same_level 2
+employees_at_same_level 3
+employees_at_same_level 4
+employees_at_same_level 5

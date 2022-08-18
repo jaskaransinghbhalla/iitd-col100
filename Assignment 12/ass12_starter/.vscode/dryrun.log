@@ -1,0 +1,5 @@
+make: Entering directory `/Users/c.bansal/Downloads/ass12_starter'
+gcc organization.c -o organization
+./organization < input.txt
+make: Leaving directory `/Users/c.bansal/Downloads/ass12_starter'
+ 

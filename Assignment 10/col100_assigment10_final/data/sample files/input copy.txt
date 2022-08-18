@@ -1,0 +1,17 @@
+16
+print
+append 1
+append 2
+append 3
+print
+getitem 0
+getitem 1
+getitem 100
+setitem 0 100
+print
+reverse
+print
+erase 0
+print
+erase 5
+print

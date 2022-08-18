@@ -1,0 +1,20 @@
+n=int(input())
+i=1
+k=2*n-1
+print(k)
+while(i<=k):
+    j=1
+    while(j<=i):
+        print('*',end='')
+        j=j+1
+    i=i+2
+    print()
+
+i=k-2
+while(i>0):
+    j=1
+    while(j<=i):
+        print('*',end='')
+        j=j+1
+    i=i-2
+    print()

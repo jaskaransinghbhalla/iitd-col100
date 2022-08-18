@@ -1,0 +1,3 @@
+all:
+	gcc 2021CS10098-q.c
+	./a.out < Test.txt

@@ -1,0 +1,1002 @@
+1 Kandoi 446 2 Labib 548 17 Raj 685 32 Nguyen 809 -1 -1 22 Nguyen 442 25 Ahlawat 145 -1 34 Raj 354 -1 -1 29 Agarwal 691 -1 -1 3 Nagori 432 6 Khurana 543 26 Nguyen 359 -1 -1 7 Shrivastava 983 15 Nagori 523 -1 -1 9 Labib 413 -1 -1 -1 4 Shrivastava 159 5 Sethia 834 8 Sethia 922 21 Agarwal 685 -1 28 Labib 409 -1 33 Nguyen 895 -1 -1 35 Yadav 822 -1 -1 16 Sethia 137 20 Ahi 614 -1 31 Raj 478 -1 -1 -1 10 Khurana 418 12 Sethia 378 13 Raj 800 27 Sethia 407 -1 -1 19 Raj 550 -1 -1 14 Shrivastava 279 23 Yadav 691 -1 -1 24 Kashedikar 549 -1 -1 11 Yadav 880 18 Agarwal 966 -1 -1 30 Khurana 572 -1 -1 
+1000
+get_first_common_boss 35 33
+get_average_salary 3
+get_all_bosses 6
+get_all_bosses 8
+get_average_salary 5
+get_all_bosses 16
+get_average_salary 27
+get_all_bosses 31
+get_first_common_boss 10 33
+same_last_name 14
+same_last_name 30
+get_all_bosses 18
+same_last_name 21
+same_last_name 8
+same_last_name 7
+get_average_salary 32
+get_first_common_boss 16 22
+get_average_salary 30
+get_all_bosses 29
+get_all_bosses 23
+get_average_salary 33
+get_first_common_boss 6 24
+get_all_bosses 30
+same_last_name 15
+get_average_salary 17
+get_average_salary 19
+get_all_bosses 2
+get_all_bosses 21
+get_average_salary 31
+same_last_name 19
+get_first_common_boss 22 25
+same_last_name 6
+get_average_salary 20
+get_average_salary 28
+get_first_common_boss 33 21
+get_first_common_boss 19 23
+get_all_bosses 24
+same_last_name 33
+get_average_salary 22
+get_average_salary 13
+same_last_name 22
+get_first_common_boss 11 22
+get_all_bosses 10
+get_all_bosses 21
+get_first_common_boss 31 23
+same_last_name 17
+get_average_salary 19
+get_first_common_boss 26 24
+get_average_salary 8
+get_first_common_boss 14 18
+get_first_common_boss 33 7
+get_average_salary 6
+same_last_name 13
+get_all_bosses 2
+get_average_salary 15
+get_all_bosses 17
+get_first_common_boss 17 33
+get_all_bosses 16
+get_all_bosses 10
+get_all_bosses 28
+same_last_name 29
+get_all_bosses 13
+get_all_bosses 5
+get_all_bosses 6
+same_last_name 17
+get_first_common_boss 12 29
+get_first_common_boss 12 4
+get_all_bosses 20
+get_first_common_boss 17 22
+get_all_bosses 14
+get_first_common_boss 14 3
+get_average_salary 2
+get_first_common_boss 29 1
+same_last_name 34
+get_all_bosses 16
+get_first_common_boss 13 34
+get_average_salary 30
+get_first_common_boss 8 6
+get_first_common_boss 15 3
+get_average_salary 35
+get_all_bosses 19
+get_average_salary 25
+get_average_salary 26
+get_all_bosses 34
+get_average_salary 2
+get_average_salary 17
+get_average_salary 34
+get_average_salary 11
+get_first_common_boss 9 28
+get_first_common_boss 16 34
+get_average_salary 14
+get_first_common_boss 7 33
+get_all_bosses 25
+get_average_salary 25
+get_average_salary 34
+same_last_name 28
+get_all_bosses 29
+get_first_common_boss 31 15
+get_average_salary 14
+same_last_name 3
+get_average_salary 21
+get_first_common_boss 22 16
+same_last_name 3
+get_first_common_boss 16 4
+get_average_salary 24
+get_first_common_boss 16 19
+same_last_name 12
+get_first_common_boss 22 7
+get_average_salary 29
+get_all_bosses 4
+get_first_common_boss 12 26
+get_all_bosses 30
+get_all_bosses 13
+get_average_salary 34
+same_last_name 26
+same_last_name 13
+get_first_common_boss 14 13
+get_first_common_boss 3 2
+same_last_name 4
+get_first_common_boss 34 27
+same_last_name 12
+get_first_common_boss 22 20
+same_last_name 1
+get_first_common_boss 4 8
+get_average_salary 12
+get_average_salary 2
+get_all_bosses 3
+get_first_common_boss 10 17
+same_last_name 21
+same_last_name 28
+same_last_name 14
+same_last_name 1
+get_first_common_boss 6 19
+same_last_name 2
+same_last_name 30
+get_first_common_boss 4 10
+get_average_salary 10
+get_average_salary 12
+same_last_name 23
+get_all_bosses 32
+get_average_salary 32
+get_all_bosses 18
+get_first_common_boss 20 9
+get_all_bosses 15
+get_first_common_boss 5 28
+same_last_name 18
+get_average_salary 17
+get_average_salary 1
+get_first_common_boss 32 16
+get_average_salary 6
+get_average_salary 16
+get_all_bosses 11
+same_last_name 22
+get_average_salary 17
+get_all_bosses 10
+get_first_common_boss 2 16
+get_average_salary 25
+get_all_bosses 30
+get_first_common_boss 8 19
+get_first_common_boss 17 10
+get_first_common_boss 11 15
+get_first_common_boss 35 23
+get_average_salary 33
+get_average_salary 22
+get_first_common_boss 15 29
+get_average_salary 19
+get_first_common_boss 11 34
+get_first_common_boss 12 3
+get_average_salary 24
+get_first_common_boss 30 7
+same_last_name 31
+get_all_bosses 26
+get_all_bosses 11
+get_average_salary 13
+same_last_name 10
+get_all_bosses 4
+get_first_common_boss 18 8
+same_last_name 15
+get_all_bosses 32
+get_all_bosses 5
+get_first_common_boss 18 31
+get_average_salary 27
+get_average_salary 15
+same_last_name 14
+get_first_common_boss 17 12
+get_all_bosses 6
+get_average_salary 9
+get_first_common_boss 3 5
+get_first_common_boss 25 3
+same_last_name 9
+get_all_bosses 35
+same_last_name 17
+same_last_name 6
+same_last_name 6
+get_all_bosses 30
+get_all_bosses 35
+get_all_bosses 4
+get_first_common_boss 15 26
+get_all_bosses 30
+get_all_bosses 3
+get_first_common_boss 7 34
+get_all_bosses 13
+get_first_common_boss 23 15
+get_average_salary 12
+get_all_bosses 13
+get_first_common_boss 2 1
+get_first_common_boss 4 30
+get_average_salary 35
+get_first_common_boss 26 15
+same_last_name 24
+get_all_bosses 13
+same_last_name 35
+get_average_salary 35
+same_last_name 6
+same_last_name 1
+get_average_salary 11
+get_all_bosses 29
+get_first_common_boss 24 27
+same_last_name 27
+get_first_common_boss 13 27
+same_last_name 19
+get_first_common_boss 31 19
+get_first_common_boss 16 22
+get_all_bosses 32
+get_all_bosses 9
+get_average_salary 33
+get_all_bosses 6
+get_first_common_boss 34 6
+get_average_salary 7
+get_all_bosses 3
+same_last_name 24
+get_first_common_boss 20 8
+same_last_name 2
+get_average_salary 23
+get_all_bosses 29
+get_average_salary 1
+get_first_common_boss 6 10
+same_last_name 31
+get_first_common_boss 14 26
+same_last_name 2
+get_all_bosses 30
+get_all_bosses 2
+get_average_salary 26
+get_average_salary 4
+same_last_name 30
+get_average_salary 32
+same_last_name 14
+get_all_bosses 18
+get_average_salary 35
+get_first_common_boss 26 19
+same_last_name 10
+same_last_name 16
+get_first_common_boss 21 4
+get_average_salary 15
+same_last_name 24
+get_average_salary 7
+get_all_bosses 6
+get_first_common_boss 6 32
+same_last_name 6
+same_last_name 22
+same_last_name 19
+get_first_common_boss 20 12
+get_average_salary 29
+get_first_common_boss 6 18
+get_first_common_boss 2 3
+get_first_common_boss 21 2
+same_last_name 34
+same_last_name 16
+get_first_common_boss 23 18
+get_first_common_boss 24 27
+get_all_bosses 21
+get_first_common_boss 14 35
+get_all_bosses 28
+get_average_salary 17
+same_last_name 5
+get_average_salary 17
+get_average_salary 23
+get_first_common_boss 26 34
+get_all_bosses 35
+get_average_salary 1
+get_average_salary 30
+get_average_salary 13
+get_first_common_boss 4 23
+get_all_bosses 4
+get_all_bosses 7
+get_average_salary 13
+get_first_common_boss 29 3
+same_last_name 33
+get_all_bosses 8
+get_all_bosses 1
+get_average_salary 9
+get_first_common_boss 3 21
+get_first_common_boss 3 10
+same_last_name 28
+get_average_salary 12
+same_last_name 10
+get_all_bosses 18
+same_last_name 28
+same_last_name 7
+get_all_bosses 22
+get_first_common_boss 9 33
+get_first_common_boss 5 22
+get_all_bosses 24
+get_first_common_boss 27 14
+get_first_common_boss 26 4
+get_average_salary 27
+get_all_bosses 18
+get_first_common_boss 14 23
+get_all_bosses 24
+get_all_bosses 32
+get_average_salary 26
+get_average_salary 25
+get_all_bosses 16
+get_average_salary 12
+get_all_bosses 9
+get_all_bosses 15
+get_average_salary 27
+get_average_salary 1
+get_average_salary 3
+get_first_common_boss 13 25
+same_last_name 1
+same_last_name 3
+get_all_bosses 6
+get_all_bosses 29
+get_all_bosses 8
+get_average_salary 26
+same_last_name 14
+same_last_name 8
+get_average_salary 8
+get_all_bosses 4
+get_all_bosses 25
+same_last_name 33
+get_average_salary 4
+same_last_name 13
+get_average_salary 12
+get_average_salary 5
+same_last_name 10
+get_all_bosses 33
+get_all_bosses 33
+get_all_bosses 15
+get_all_bosses 4
+same_last_name 25
+same_last_name 2
+get_all_bosses 1
+get_first_common_boss 25 10
+get_average_salary 10
+same_last_name 17
+get_average_salary 34
+get_all_bosses 10
+get_first_common_boss 25 19
+get_average_salary 16
+same_last_name 17
+same_last_name 2
+same_last_name 12
+same_last_name 16
+get_all_bosses 5
+get_first_common_boss 18 2
+get_first_common_boss 9 1
+get_all_bosses 22
+get_all_bosses 15
+get_all_bosses 20
+same_last_name 9
+same_last_name 15
+get_all_bosses 3
+get_all_bosses 26
+get_average_salary 8
+get_average_salary 33
+get_all_bosses 31
+get_first_common_boss 26 23
+same_last_name 33
+get_first_common_boss 25 23
+get_average_salary 34
+get_average_salary 2
+same_last_name 26
+get_average_salary 15
+get_average_salary 14
+get_first_common_boss 10 7
+get_first_common_boss 13 14
+same_last_name 3
+get_all_bosses 19
+get_first_common_boss 25 35
+get_average_salary 27
+same_last_name 26
+get_average_salary 25
+same_last_name 12
+get_average_salary 3
+same_last_name 17
+get_average_salary 18
+get_all_bosses 1
+same_last_name 34
+get_first_common_boss 11 22
+same_last_name 4
+get_average_salary 11
+get_first_common_boss 33 20
+get_first_common_boss 1 25
+get_first_common_boss 21 32
+get_first_common_boss 16 22
+get_average_salary 28
+get_all_bosses 10
+get_first_common_boss 12 8
+same_last_name 11
+same_last_name 35
+get_all_bosses 19
+get_average_salary 23
+get_average_salary 4
+get_average_salary 15
+same_last_name 31
+get_first_common_boss 31 30
+same_last_name 10
+get_average_salary 13
+get_all_bosses 12
+same_last_name 20
+same_last_name 4
+get_average_salary 17
+get_average_salary 5
+get_average_salary 22
+get_all_bosses 15
+same_last_name 31
+get_average_salary 22
+get_first_common_boss 31 29
+get_average_salary 11
+get_first_common_boss 6 29
+get_all_bosses 21
+get_first_common_boss 13 3
+get_first_common_boss 11 13
+get_first_common_boss 3 20
+get_average_salary 5
+same_last_name 18
+get_average_salary 27
+get_first_common_boss 30 11
+get_first_common_boss 2 6
+get_first_common_boss 7 30
+same_last_name 16
+same_last_name 21
+get_all_bosses 8
+get_all_bosses 30
+same_last_name 33
+get_all_bosses 20
+get_all_bosses 19
+get_first_common_boss 27 29
+get_first_common_boss 35 25
+get_first_common_boss 27 20
+get_first_common_boss 16 29
+get_average_salary 21
+get_average_salary 35
+get_first_common_boss 15 8
+same_last_name 20
+same_last_name 3
+same_last_name 29
+get_average_salary 34
+get_all_bosses 24
+get_all_bosses 9
+same_last_name 18
+get_average_salary 22
+get_first_common_boss 34 6
+same_last_name 1
+get_first_common_boss 13 1
+get_all_bosses 15
+get_first_common_boss 4 19
+get_all_bosses 19
+get_all_bosses 5
+get_all_bosses 29
+get_first_common_boss 22 4
+get_average_salary 17
+same_last_name 11
+get_average_salary 15
+get_first_common_boss 1 14
+get_first_common_boss 28 34
+same_last_name 19
+get_all_bosses 15
+get_average_salary 26
+get_average_salary 8
+same_last_name 9
+get_first_common_boss 19 5
+get_first_common_boss 5 9
+get_first_common_boss 8 1
+get_all_bosses 20
+get_first_common_boss 20 19
+get_all_bosses 33
+same_last_name 3
+get_first_common_boss 5 11
+get_first_common_boss 12 25
+get_all_bosses 26
+get_first_common_boss 25 17
+get_first_common_boss 2 5
+get_all_bosses 16
+get_average_salary 20
+get_all_bosses 1
+same_last_name 33
+get_all_bosses 22
+get_all_bosses 18
+get_first_common_boss 3 6
+get_average_salary 31
+same_last_name 20
+get_first_common_boss 1 9
+get_average_salary 12
+get_all_bosses 15
+get_first_common_boss 31 12
+same_last_name 31
+get_average_salary 11
+same_last_name 5
+get_average_salary 34
+same_last_name 19
+same_last_name 20
+same_last_name 35
+get_all_bosses 29
+get_first_common_boss 34 8
+same_last_name 25
+same_last_name 1
+get_all_bosses 1
+get_average_salary 17
+get_average_salary 14
+get_all_bosses 1
+get_all_bosses 26
+same_last_name 13
+get_average_salary 26
+get_average_salary 30
+same_last_name 32
+same_last_name 28
+get_first_common_boss 6 6
+get_first_common_boss 18 11
+get_all_bosses 9
+get_first_common_boss 21 21
+get_all_bosses 2
+get_all_bosses 24
+get_first_common_boss 21 11
+get_all_bosses 17
+get_all_bosses 8
+get_all_bosses 33
+get_average_salary 8
+same_last_name 22
+get_first_common_boss 3 34
+get_first_common_boss 27 35
+same_last_name 3
+get_average_salary 2
+get_first_common_boss 9 30
+get_average_salary 31
+same_last_name 15
+get_all_bosses 21
+get_average_salary 13
+same_last_name 35
+same_last_name 29
+same_last_name 15
+get_average_salary 33
+get_all_bosses 27
+get_all_bosses 16
+get_all_bosses 19
+get_average_salary 26
+get_first_common_boss 13 10
+get_all_bosses 10
+get_first_common_boss 2 24
+get_average_salary 34
+get_first_common_boss 28 22
+get_all_bosses 30
+get_first_common_boss 27 12
+get_average_salary 13
+get_all_bosses 26
+get_all_bosses 6
+same_last_name 34
+same_last_name 24
+get_all_bosses 16
+get_first_common_boss 19 27
+get_first_common_boss 8 33
+get_average_salary 3
+get_average_salary 11
+same_last_name 19
+get_average_salary 4
+same_last_name 35
+same_last_name 27
+get_first_common_boss 3 17
+get_first_common_boss 32 35
+get_all_bosses 13
+get_all_bosses 26
+get_first_common_boss 19 1
+same_last_name 3
+get_first_common_boss 32 21
+get_all_bosses 13
+get_average_salary 24
+same_last_name 11
+get_average_salary 28
+get_first_common_boss 11 32
+same_last_name 23
+same_last_name 12
+same_last_name 3
+get_average_salary 17
+get_average_salary 28
+get_average_salary 10
+get_first_common_boss 30 14
+same_last_name 28
+get_first_common_boss 8 3
+get_first_common_boss 22 31
+get_all_bosses 24
+get_first_common_boss 6 17
+get_all_bosses 11
+get_first_common_boss 15 18
+get_average_salary 21
+get_first_common_boss 4 13
+same_last_name 14
+get_average_salary 2
+same_last_name 18
+get_first_common_boss 9 1
+get_all_bosses 3
+get_first_common_boss 15 6
+same_last_name 7
+get_average_salary 24
+get_all_bosses 3
+get_all_bosses 17
+same_last_name 8
+get_all_bosses 35
+get_first_common_boss 35 2
+same_last_name 34
+get_all_bosses 6
+same_last_name 26
+same_last_name 12
+get_all_bosses 27
+same_last_name 16
+get_all_bosses 1
+get_average_salary 33
+get_average_salary 19
+get_all_bosses 18
+same_last_name 20
+get_average_salary 4
+get_first_common_boss 34 4
+get_average_salary 32
+same_last_name 33
+get_all_bosses 20
+get_first_common_boss 19 25
+get_average_salary 28
+get_all_bosses 28
+same_last_name 17
+same_last_name 9
+get_first_common_boss 12 7
+get_average_salary 7
+get_first_common_boss 29 33
+get_first_common_boss 3 13
+get_first_common_boss 6 19
+same_last_name 11
+get_all_bosses 34
+same_last_name 27
+get_first_common_boss 35 34
+get_first_common_boss 35 8
+get_all_bosses 28
+same_last_name 16
+get_average_salary 12
+get_average_salary 31
+get_first_common_boss 1 22
+get_average_salary 35
+get_average_salary 35
+get_first_common_boss 4 21
+same_last_name 32
+get_average_salary 22
+get_average_salary 31
+get_all_bosses 14
+get_first_common_boss 16 5
+get_average_salary 4
+get_average_salary 9
+get_all_bosses 5
+same_last_name 7
+same_last_name 22
+same_last_name 19
+same_last_name 7
+get_average_salary 12
+same_last_name 27
+get_average_salary 22
+get_average_salary 9
+get_first_common_boss 12 7
+get_all_bosses 33
+same_last_name 35
+same_last_name 14
+same_last_name 31
+same_last_name 26
+get_average_salary 35
+get_first_common_boss 27 29
+get_average_salary 2
+same_last_name 22
+get_first_common_boss 14 27
+get_first_common_boss 31 18
+get_average_salary 5
+get_average_salary 9
+get_average_salary 12
+get_average_salary 23
+same_last_name 3
+get_all_bosses 31
+get_average_salary 21
+same_last_name 21
+get_first_common_boss 6 23
+get_first_common_boss 3 20
+same_last_name 30
+same_last_name 2
+get_all_bosses 23
+same_last_name 6
+get_first_common_boss 13 15
+same_last_name 19
+get_all_bosses 21
+get_first_common_boss 7 22
+get_first_common_boss 21 23
+get_first_common_boss 18 25
+get_average_salary 16
+get_all_bosses 21
+get_all_bosses 22
+same_last_name 13
+get_first_common_boss 10 20
+get_first_common_boss 26 19
+get_average_salary 6
+get_all_bosses 13
+same_last_name 31
+get_all_bosses 23
+same_last_name 30
+same_last_name 18
+get_all_bosses 19
+same_last_name 11
+get_all_bosses 1
+get_all_bosses 2
+get_average_salary 35
+get_average_salary 24
+get_all_bosses 3
+get_all_bosses 11
+same_last_name 10
+same_last_name 29
+get_all_bosses 10
+same_last_name 30
+get_average_salary 10
+get_all_bosses 15
+get_all_bosses 18
+get_first_common_boss 12 15
+get_all_bosses 6
+get_all_bosses 27
+get_first_common_boss 21 19
+get_all_bosses 14
+get_first_common_boss 16 32
+same_last_name 35
+get_average_salary 11
+get_all_bosses 30
+get_first_common_boss 33 18
+same_last_name 29
+get_all_bosses 4
+get_all_bosses 26
+same_last_name 10
+same_last_name 18
+same_last_name 24
+get_first_common_boss 32 5
+same_last_name 26
+same_last_name 35
+get_average_salary 1
+get_average_salary 15
+get_all_bosses 12
+get_all_bosses 6
+get_average_salary 1
+get_first_common_boss 9 17
+same_last_name 26
+get_first_common_boss 18 34
+same_last_name 3
+get_average_salary 15
+get_average_salary 14
+get_first_common_boss 27 27
+get_all_bosses 10
+get_all_bosses 10
+get_average_salary 32
+same_last_name 17
+get_first_common_boss 1 19
+get_all_bosses 30
+get_first_common_boss 9 16
+get_first_common_boss 21 18
+get_first_common_boss 19 31
+get_first_common_boss 28 25
+same_last_name 26
+same_last_name 4
+get_all_bosses 15
+get_first_common_boss 27 25
+same_last_name 29
+get_first_common_boss 22 7
+get_average_salary 26
+same_last_name 21
+same_last_name 11
+get_first_common_boss 4 34
+same_last_name 13
+get_average_salary 9
+get_average_salary 20
+get_first_common_boss 20 7
+get_first_common_boss 33 28
+get_first_common_boss 11 26
+get_average_salary 26
+same_last_name 32
+same_last_name 26
+same_last_name 28
+get_average_salary 7
+get_all_bosses 14
+get_first_common_boss 8 33
+get_average_salary 14
+get_first_common_boss 23 14
+same_last_name 26
+get_all_bosses 34
+get_first_common_boss 18 6
+get_first_common_boss 20 19
+get_first_common_boss 12 28
+get_first_common_boss 6 2
+get_all_bosses 15
+same_last_name 19
+get_average_salary 32
+get_average_salary 29
+get_first_common_boss 23 2
+get_all_bosses 12
+get_all_bosses 3
+get_all_bosses 34
+get_first_common_boss 33 34
+same_last_name 12
+same_last_name 22
+get_all_bosses 2
+get_first_common_boss 11 1
+same_last_name 29
+get_all_bosses 15
+get_average_salary 26
+same_last_name 34
+same_last_name 29
+get_average_salary 11
+get_average_salary 22
+get_all_bosses 22
+get_all_bosses 6
+same_last_name 18
+get_all_bosses 22
+same_last_name 23
+same_last_name 17
+get_average_salary 19
+same_last_name 7
+get_average_salary 29
+get_first_common_boss 10 34
+get_first_common_boss 32 17
+get_first_common_boss 33 8
+get_average_salary 24
+get_first_common_boss 14 11
+get_first_common_boss 2 28
+same_last_name 10
+get_average_salary 15
+same_last_name 2
+get_all_bosses 15
+get_average_salary 29
+get_all_bosses 32
+get_average_salary 5
+get_first_common_boss 30 5
+get_first_common_boss 31 22
+get_average_salary 25
+get_first_common_boss 34 20
+get_first_common_boss 2 25
+same_last_name 27
+get_average_salary 35
+same_last_name 33
+get_all_bosses 17
+get_first_common_boss 27 29
+same_last_name 14
+get_average_salary 18
+same_last_name 22
+same_last_name 16
+get_all_bosses 16
+get_average_salary 10
+same_last_name 7
+get_average_salary 20
+get_first_common_boss 25 9
+get_first_common_boss 10 25
+get_first_common_boss 16 29
+get_all_bosses 2
+get_all_bosses 1
+get_all_bosses 3
+same_last_name 16
+get_average_salary 29
+get_average_salary 15
+same_last_name 2
+get_first_common_boss 8 27
+same_last_name 9
+get_first_common_boss 26 10
+get_first_common_boss 31 28
+get_first_common_boss 15 9
+same_last_name 27
+get_average_salary 9
+get_all_bosses 24
+get_all_bosses 32
+get_average_salary 9
+get_all_bosses 8
+get_first_common_boss 17 31
+get_first_common_boss 6 26
+get_all_bosses 10
+get_all_bosses 35
+same_last_name 13
+get_first_common_boss 34 31
+get_average_salary 24
+get_average_salary 30
+get_all_bosses 13
+get_average_salary 22
+same_last_name 35
+get_first_common_boss 7 12
+same_last_name 18
+get_first_common_boss 3 17
+get_all_bosses 29
+get_average_salary 11
+get_average_salary 7
+get_all_bosses 18
+get_first_common_boss 28 34
+same_last_name 3
+same_last_name 11
+same_last_name 35
+get_all_bosses 35
+get_first_common_boss 32 15
+get_average_salary 1
+get_first_common_boss 27 16
+same_last_name 1
+same_last_name 33
+get_first_common_boss 29 21
+get_first_common_boss 8 31
+get_first_common_boss 10 18
+get_first_common_boss 24 27
+get_average_salary 9
+get_all_bosses 30
+get_first_common_boss 17 23
+get_all_bosses 15
+get_all_bosses 22
+get_average_salary 17
+get_first_common_boss 21 20
+get_first_common_boss 19 26
+get_all_bosses 7
+get_first_common_boss 26 6
+same_last_name 28
+get_all_bosses 31
+get_first_common_boss 11 10
+get_first_common_boss 6 29
+same_last_name 15
+same_last_name 26
+same_last_name 3
+get_all_bosses 18
+get_all_bosses 1
+same_last_name 34
+same_last_name 19
+same_last_name 28
+get_average_salary 15
+same_last_name 12
+same_last_name 16
+get_first_common_boss 28 17
+get_first_common_boss 19 13
+get_average_salary 15
+get_first_common_boss 27 18
+get_average_salary 12
+get_all_bosses 17
+get_average_salary 8
+same_last_name 35
+same_last_name 34
+same_last_name 9
+same_last_name 32
+get_average_salary 21
+get_first_common_boss 25 4
+get_first_common_boss 16 28
+get_average_salary 25
+get_all_bosses 28
+get_first_common_boss 11 16
+get_all_bosses 13
+get_average_salary 32
+same_last_name 21
+get_all_bosses 17
+same_last_name 26
+get_first_common_boss 24 33
+get_average_salary 7
+same_last_name 14
+get_first_common_boss 23 17
+get_average_salary 22
+get_all_bosses 6
+same_last_name 30
+same_last_name 7
+get_first_common_boss 29 35
+get_average_salary 8
+get_first_common_boss 33 14
+get_first_common_boss 23 18
+same_last_name 7
+get_first_common_boss 5 2
+get_average_salary 31
+same_last_name 17
+get_average_salary 12
+get_all_bosses 1
+same_last_name 6
+get_all_bosses 8
+get_all_bosses 26
+same_last_name 17
+same_last_name 17
+same_last_name 10
+get_average_salary 13
+get_all_bosses 30
+same_last_name 9
+same_last_name 1
+get_average_salary 34
+get_all_bosses 10
+get_average_salary 1
+get_first_common_boss 12 34
+same_last_name 3
+get_first_common_boss 33 1
+get_all_bosses 15
+get_average_salary 28
+same_last_name 16
+get_average_salary 15
+same_last_name 7
+get_first_common_boss 19 10
+same_last_name 10
+get_all_bosses 1
+same_last_name 21
+same_last_name 13

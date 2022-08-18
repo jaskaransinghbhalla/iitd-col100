@@ -1,0 +1,1865 @@
+1863
+clear
+setitem 55 809
+index_into 9 19 20 6 50 4 0 20 29 49 
+pop
+erase 47
+print
+print
+erase 67
+reverse
+erase 32
+swap 13
+pop
+print
+index_into 18 17 48 50 18 4 5 16 29 50 24 22 2 11 23 29 23 41 48 
+append 837
+print
+sort 
+len
+swap 79
+clear
+reverse
+getitem 41
+print
+len
+getitem 15
+len
+print
+insert 99 311
+setitem 57 261
+pop
+print
+len
+print
+sort 
+count 78
+print
+swap 14
+print
+getitem 43
+len
+reverse
+print
+print
+print
+insert 40 775
+print
+insert 14 234
+reverse
+insert 15 585
+print
+append 550
+clear
+reverse
+print
+print
+clear
+print
+print
+print
+sort 
+setitem 85 36
+print
+index_into 5 28 27 6 23 28 
+insert 34 424
+setitem 37 934
+reverse
+getitem 15
+swap 80
+print
+insert 33 848
+count 756
+swap 26
+print
+print
+setitem 30 15
+getitem 31
+index_into 20 40 34 6 41 11 47 21 36 29 1 15 20 25 40 45 49 41 12 6 8 
+reverse
+print
+print
+len
+sort 
+getitem 18
+print
+insert 78 620
+swap 99
+print
+print
+append 856
+clear
+print
+len
+print
+swap 62
+pop
+print
+print
+print
+clear
+len
+swap 56
+print
+setitem 92 992
+print
+sort 
+sort 
+getitem 58
+print
+print
+print
+print
+sort 
+getitem 79
+index_into 19 15 7 19 34 43 11 38 21 18 35 28 2 21 8 20 0 16 23 15 
+sort 
+count 384
+erase 46
+print
+print
+print
+print
+count 386
+print
+print
+print
+print
+pop
+print
+append 534
+print
+pop
+print
+len
+count 652
+clear
+swap 92
+print
+reverse
+print
+pop
+count 259
+index_into 15 40 46 42 45 37 37 35 48 49 6 48 42 3 34 30 
+len
+pop
+print
+print
+index_into 15 33 5 24 31 48 10 39 26 5 42 9 24 29 34 38 
+reverse
+count 850
+print
+index_into 15 28 18 28 13 34 4 3 49 12 50 40 11 46 13 19 
+setitem 0 773
+reverse
+swap 56
+erase 18
+len
+getitem 12
+print
+erase 38
+print
+print
+print
+count 874
+getitem 89
+index_into 17 16 1 10 3 22 21 38 5 30 38 22 24 15 8 25 0 3 
+getitem 61
+insert 73 200
+len
+clear
+erase 61
+append 7
+insert 63 105
+print
+count 233
+insert 15 116
+append 671
+sort 
+insert 30 237
+swap 64
+print
+len
+erase 71
+index_into 1 8 
+pop
+print
+len
+print
+reverse
+index_into 2 4 8 
+erase 53
+insert 60 165
+print
+print
+setitem 97 922
+print
+print
+insert 67 930
+erase 4
+count 687
+print
+swap 59
+append 761
+len
+count 829
+len
+clear
+erase 45
+sort 
+pop
+print
+pop
+reverse
+clear
+print
+insert 99 363
+print
+setitem 33 172
+sort 
+insert 76 47
+reverse
+index_into 14 13 44 39 50 43 47 41 24 22 32 44 35 11 47 
+sort 
+insert 77 275
+print
+print
+print
+index_into 6 48 41 0 16 22 12 
+insert 53 531
+append 211
+reverse
+print
+len
+sort 
+insert 71 60
+sort 
+clear
+count 703
+swap 69
+setitem 21 624
+reverse
+pop
+getitem 100
+reverse
+count 941
+print
+setitem 45 872
+count 458
+append 352
+len
+index_into 2 40 26 
+getitem 100
+print
+print
+print
+setitem 2 796
+insert 69 890
+print
+swap 40
+erase 14
+insert 0 771
+insert 50 801
+sort 
+append 670
+print
+print
+print
+setitem 64 771
+print
+sort 
+print
+setitem 48 163
+print
+insert 86 160
+setitem 43 846
+print
+print
+print
+pop
+print
+print
+len
+print
+sort 
+print
+setitem 56 522
+sort 
+print
+swap 48
+clear
+sort 
+print
+insert 87 221
+len
+setitem 96 614
+swap 58
+swap 33
+print
+getitem 34
+print
+setitem 73 895
+clear
+len
+len
+insert 10 994
+insert 85 996
+count 775
+print
+swap 41
+insert 34 704
+print
+print
+print
+pop
+erase 96
+reverse
+print
+print
+getitem 49
+print
+append 88
+getitem 48
+insert 17 917
+sort 
+count 647
+swap 0
+print
+print
+len
+erase 94
+len
+reverse
+count 954
+print
+erase 58
+print
+index_into 10 7 22 33 10 0 32 36 11 8 28 
+len
+print
+swap 90
+append 791
+insert 78 502
+print
+getitem 15
+print
+print
+print
+print
+setitem 95 791
+print
+index_into 14 28 38 8 36 39 18 9 24 33 22 18 4 30 43 
+print
+pop
+print
+pop
+len
+count 197
+len
+print
+print
+print
+count 53
+index_into 16 7 46 47 38 32 48 35 29 5 47 50 31 13 44 44 43 
+print
+getitem 85
+reverse
+erase 2
+swap 3
+print
+setitem 37 4
+sort 
+clear
+erase 49
+erase 51
+print
+print
+insert 53 631
+pop
+print
+print
+setitem 26 23
+getitem 1
+clear
+pop
+clear
+index_into 14 0 45 25 21 15 2 2 44 21 7 16 29 29 20 
+swap 9
+index_into 18 19 27 43 46 36 44 41 37 45 49 34 28 6 38 4 47 30 40 
+print
+append 248
+setitem 79 495
+insert 95 782
+index_into 10 7 7 2 50 7 25 22 11 23 12 
+index_into 12 45 4 27 13 42 35 44 15 33 17 9 18 
+swap 51
+count 620
+len
+setitem 63 147
+print
+print
+sort 
+sort 
+clear
+len
+swap 19
+clear
+print
+getitem 10
+len
+index_into 19 4 36 18 24 46 9 41 38 23 46 4 9 9 26 6 18 23 4 28 
+print
+insert 25 654
+sort 
+index_into 18 41 31 44 15 25 45 15 47 28 32 34 17 24 19 26 46 30 9 
+index_into 8 47 30 2 11 10 19 34 42 
+getitem 89
+print
+len
+clear
+getitem 16
+append 300
+print
+insert 19 630
+print
+count 836
+getitem 51
+print
+erase 54
+reverse
+print
+clear
+sort 
+setitem 39 231
+reverse
+getitem 33
+clear
+index_into 9 43 20 28 2 48 8 22 0 15 
+print
+print
+setitem 82 268
+print
+print
+insert 48 665
+erase 0
+insert 42 818
+setitem 71 978
+erase 79
+print
+print
+append 457
+erase 32
+print
+sort 
+print
+append 238
+swap 14
+insert 88 464
+sort 
+count 46
+index_into 6 41 44 1 8 46 38 
+getitem 23
+erase 75
+reverse
+count 904
+erase 8
+getitem 54
+erase 28
+len
+print
+index_into 10 35 44 15 8 11 28 9 45 44 1 
+insert 72 727
+append 301
+index_into 11 37 16 42 37 43 17 14 36 5 18 49 
+reverse
+index_into 2 7 46 
+setitem 44 32
+print
+swap 100
+print
+reverse
+swap 32
+setitem 55 829
+pop
+sort 
+len
+insert 74 907
+index_into 19 9 35 39 19 39 3 9 37 35 17 12 23 35 30 42 30 27 31 9 
+getitem 20
+print
+count 75
+swap 61
+print
+print
+len
+count 975
+insert 28 525
+print
+pop
+clear
+print
+print
+append 65
+len
+getitem 83
+print
+swap 17
+sort 
+count 728
+pop
+print
+print
+getitem 3
+swap 1
+append 348
+reverse
+pop
+print
+print
+erase 26
+print
+insert 52 978
+setitem 50 23
+index_into 8 36 17 4 8 34 33 28 18 
+erase 88
+print
+print
+setitem 32 856
+reverse
+swap 36
+sort 
+print
+print
+reverse
+len
+print
+append 375
+print
+clear
+insert 35 981
+append 239
+reverse
+print
+swap 49
+print
+print
+print
+len
+len
+getitem 80
+sort 
+count 882
+count 373
+clear
+count 208
+print
+getitem 19
+sort 
+reverse
+print
+len
+print
+setitem 7 222
+print
+count 783
+print
+print
+append 917
+print
+swap 61
+print
+getitem 40
+pop
+sort 
+print
+setitem 99 347
+sort 
+sort 
+count 286
+print
+append 467
+index_into 12 10 32 44 22 2 0 2 10 29 35 9 30 
+index_into 19 30 27 1 48 1 29 7 2 19 0 24 6 18 36 35 3 37 36 19 
+setitem 17 355
+index_into 9 24 7 40 34 20 24 30 11 44 
+getitem 60
+insert 89 221
+print
+insert 19 301
+index_into 18 47 17 0 8 35 8 28 3 14 27 27 34 42 9 50 7 36 26 
+insert 86 434
+pop
+append 717
+erase 32
+print
+print
+len
+print
+count 556
+pop
+setitem 54 631
+print
+pop
+print
+print
+print
+setitem 86 24
+len
+print
+setitem 86 745
+clear
+print
+len
+print
+setitem 78 537
+print
+print
+clear
+print
+swap 6
+getitem 85
+getitem 74
+index_into 8 12 7 39 48 33 19 17 31 
+count 687
+swap 48
+append 675
+pop
+print
+pop
+print
+pop
+print
+insert 81 432
+pop
+reverse
+print
+clear
+print
+clear
+setitem 0 335
+swap 69
+pop
+clear
+erase 41
+reverse
+print
+setitem 75 276
+print
+swap 5
+sort 
+len
+print
+swap 56
+insert 63 180
+pop
+append 119
+pop
+index_into 14 15 45 10 26 10 15 22 29 20 1 24 42 3 36 
+print
+getitem 25
+print
+swap 98
+print
+clear
+insert 39 972
+clear
+swap 37
+print
+clear
+len
+print
+clear
+swap 20
+count 950
+len
+setitem 0 284
+pop
+print
+getitem 27
+index_into 2 18 13 
+swap 67
+swap 2
+print
+pop
+setitem 30 599
+pop
+sort 
+getitem 75
+insert 72 149
+insert 88 314
+print
+print
+insert 16 939
+getitem 91
+index_into 13 15 18 37 17 4 39 46 26 47 18 28 24 42 
+insert 31 130
+clear
+clear
+pop
+insert 45 875
+clear
+print
+setitem 56 7
+getitem 62
+print
+print
+print
+sort 
+count 116
+pop
+len
+clear
+print
+count 215
+erase 86
+print
+setitem 66 226
+print
+append 174
+count 276
+print
+sort 
+print
+count 503
+pop
+getitem 3
+sort 
+erase 22
+swap 7
+print
+setitem 73 882
+getitem 66
+print
+getitem 61
+len
+print
+sort 
+count 665
+len
+print
+reverse
+pop
+pop
+insert 57 961
+print
+insert 67 265
+pop
+len
+getitem 7
+sort 
+print
+clear
+setitem 99 877
+setitem 60 800
+insert 27 425
+pop
+reverse
+sort 
+getitem 50
+sort 
+print
+getitem 29
+clear
+print
+print
+setitem 96 197
+setitem 42 456
+print
+setitem 0 651
+setitem 56 812
+clear
+print
+setitem 29 974
+append 843
+len
+erase 7
+print
+print
+sort 
+len
+len
+print
+index_into 11 24 9 14 49 8 7 31 21 24 47 33 
+setitem 40 739
+print
+print
+print
+print
+insert 46 597
+print
+setitem 44 596
+erase 0
+print
+clear
+getitem 95
+getitem 61
+setitem 76 593
+sort 
+print
+setitem 48 470
+append 129
+print
+print
+index_into 13 22 2 39 23 5 9 10 30 50 33 13 48 3 
+print
+len
+erase 56
+setitem 73 282
+print
+append 995
+print
+print
+insert 96 824
+reverse
+getitem 10
+erase 41
+print
+pop
+pop
+erase 14
+index_into 4 25 14 12 9 
+print
+print
+clear
+insert 95 95
+clear
+sort 
+print
+getitem 18
+getitem 51
+swap 96
+reverse
+print
+count 864
+getitem 93
+sort 
+swap 15
+count 124
+print
+append 259
+index_into 16 39 30 4 8 3 48 14 34 50 40 36 46 38 12 43 2 
+print
+len
+insert 52 115
+pop
+index_into 7 6 22 25 30 27 2 49 
+print
+reverse
+print
+print
+print
+append 73
+count 901
+append 571
+getitem 63
+print
+erase 47
+pop
+print
+pop
+append 169
+swap 80
+count 810
+count 182
+swap 53
+swap 91
+len
+len
+erase 70
+print
+count 801
+pop
+sort 
+reverse
+setitem 26 304
+index_into 11 29 32 4 41 33 4 18 49 50 27 23 
+insert 79 303
+erase 83
+swap 12
+swap 3
+print
+erase 74
+len
+pop
+index_into 12 9 21 26 3 49 42 31 11 42 1 47 44 
+pop
+index_into 5 15 27 6 29 7 
+reverse
+setitem 89 310
+print
+erase 84
+print
+print
+pop
+print
+setitem 44 979
+len
+len
+sort 
+setitem 74 609
+setitem 94 527
+print
+print
+index_into 6 20 2 1 2 25 16 
+print
+insert 86 973
+print
+print
+getitem 60
+erase 69
+erase 27
+index_into 7 28 46 25 21 4 36 14 
+count 482
+clear
+print
+count 18
+print
+swap 81
+reverse
+swap 39
+reverse
+pop
+setitem 48 92
+setitem 47 870
+insert 14 869
+swap 78
+setitem 31 528
+swap 95
+print
+insert 86 302
+getitem 100
+sort 
+swap 100
+pop
+erase 17
+print
+pop
+setitem 0 716
+print
+setitem 80 958
+len
+len
+print
+index_into 5 29 38 41 10 21 
+sort 
+clear
+sort 
+setitem 91 810
+setitem 14 513
+print
+print
+pop
+len
+print
+setitem 23 258
+reverse
+getitem 31
+index_into 17 4 35 14 29 24 0 5 29 36 49 8 37 22 5 36 25 49 
+pop
+reverse
+len
+len
+print
+print
+print
+pop
+getitem 37
+index_into 10 32 45 25 37 3 32 29 38 0 42 
+print
+len
+clear
+clear
+reverse
+print
+swap 69
+insert 43 260
+getitem 54
+insert 1 473
+print
+print
+print
+erase 81
+index_into 20 6 20 13 46 4 40 33 39 47 46 5 9 49 48 38 2 6 37 2 23 
+append 971
+clear
+getitem 22
+pop
+sort 
+getitem 65
+sort 
+clear
+reverse
+append 681
+len
+clear
+print
+print
+sort 
+print
+print
+print
+clear
+sort 
+getitem 91
+clear
+pop
+setitem 62 912
+erase 68
+count 124
+setitem 16 759
+index_into 4 36 30 5 22 
+print
+index_into 9 50 13 8 21 37 50 38 5 24 
+pop
+setitem 47 827
+len
+len
+print
+append 644
+pop
+erase 28
+print
+index_into 19 28 22 34 14 19 37 43 47 30 39 10 17 26 34 1 1 23 39 11 
+print
+insert 65 484
+pop
+reverse
+pop
+print
+pop
+count 863
+insert 95 196
+reverse
+setitem 35 404
+count 292
+append 892
+print
+sort 
+swap 53
+reverse
+count 631
+print
+print
+print
+append 197
+clear
+insert 0 52
+getitem 91
+print
+print
+reverse
+setitem 9 112
+print
+print
+print
+getitem 49
+sort 
+getitem 84
+erase 6
+reverse
+len
+append 542
+append 979
+insert 46 592
+print
+count 376
+clear
+reverse
+insert 36 941
+append 451
+swap 54
+reverse
+erase 93
+print
+swap 17
+setitem 94 846
+index_into 14 7 36 24 5 18 14 11 34 37 11 8 40 29 30 
+len
+count 282
+print
+print
+count 147
+pop
+print
+print
+print
+len
+print
+append 790
+print
+swap 3
+count 886
+print
+print
+append 758
+append 228
+pop
+print
+print
+print
+clear
+pop
+print
+pop
+append 0
+getitem 60
+print
+reverse
+index_into 19 33 35 17 36 20 35 10 45 46 50 32 4 24 12 43 36 42 21 36 
+len
+swap 20
+sort 
+sort 
+swap 49
+clear
+index_into 13 11 48 2 4 10 24 11 17 26 19 50 20 6 
+print
+index_into 12 34 14 13 16 19 5 32 21 19 27 28 19 
+pop
+swap 0
+getitem 16
+pop
+setitem 100 558
+getitem 88
+print
+index_into 3 14 19 11 
+erase 86
+print
+print
+getitem 30
+sort 
+len
+print
+clear
+setitem 22 407
+reverse
+index_into 11 3 17 31 20 30 9 9 46 41 19 14 
+count 32
+len
+print
+print
+count 677
+insert 71 588
+print
+clear
+print
+setitem 83 474
+count 650
+index_into 18 3 34 19 7 25 43 23 23 3 4 5 31 3 29 36 49 31 30 
+print
+getitem 23
+setitem 1 602
+insert 43 752
+setitem 69 982
+len
+getitem 38
+print
+reverse
+erase 50
+len
+pop
+sort 
+sort 
+getitem 84
+print
+pop
+print
+print
+sort 
+print
+reverse
+reverse
+append 236
+index_into 19 16 12 30 44 1 7 23 46 21 3 25 38 13 4 34 15 32 46 17 
+swap 9
+print
+index_into 5 16 6 25 22 4 
+len
+clear
+clear
+getitem 86
+clear
+reverse
+reverse
+len
+print
+append 390
+append 821
+insert 27 546
+clear
+pop
+append 350
+sort 
+insert 34 918
+print
+append 468
+print
+getitem 81
+getitem 80
+swap 2
+pop
+setitem 91 388
+print
+append 36
+clear
+getitem 69
+print
+clear
+append 986
+sort 
+pop
+len
+erase 78
+print
+pop
+print
+print
+setitem 3 637
+sort 
+sort 
+pop
+sort 
+insert 96 181
+print
+swap 32
+erase 66
+clear
+append 149
+print
+print
+append 929
+print
+print
+setitem 70 81
+print
+insert 69 687
+insert 62 845
+insert 15 794
+count 499
+setitem 81 465
+print
+insert 81 820
+print
+sort 
+print
+swap 88
+len
+print
+swap 58
+sort 
+count 203
+append 569
+getitem 72
+len
+insert 2 101
+sort 
+clear
+len
+print
+setitem 84 729
+setitem 61 157
+count 17
+index_into 4 40 31 4 12 
+print
+append 332
+getitem 90
+getitem 57
+append 293
+count 148
+print
+getitem 76
+clear
+print
+index_into 3 30 12 11 
+sort 
+append 194
+print
+print
+reverse
+getitem 20
+len
+append 571
+print
+print
+len
+len
+reverse
+print
+sort 
+setitem 42 369
+print
+swap 43
+reverse
+print
+reverse
+print
+print
+sort 
+clear
+index_into 15 11 30 14 12 21 8 11 39 1 20 25 34 33 17 6 
+print
+print
+print
+swap 77
+reverse
+len
+print
+reverse
+print
+clear
+pop
+swap 27
+clear
+print
+print
+clear
+print
+len
+swap 13
+count 798
+sort 
+sort 
+insert 98 894
+index_into 5 26 44 44 40 37 
+erase 76
+sort 
+print
+print
+print
+insert 52 18
+swap 83
+append 832
+count 748
+pop
+print
+print
+print
+print
+append 907
+clear
+count 466
+index_into 18 41 34 30 34 22 47 42 5 15 1 31 2 23 15 2 10 39 5 
+print
+erase 92
+print
+count 24
+insert 83 96
+print
+swap 38
+reverse
+getitem 42
+len
+erase 14
+append 878
+pop
+insert 17 212
+count 119
+print
+reverse
+pop
+clear
+insert 86 63
+erase 17
+pop
+print
+sort 
+print
+insert 18 531
+count 663
+setitem 57 110
+reverse
+pop
+insert 65 924
+print
+clear
+len
+pop
+setitem 28 924
+pop
+count 852
+index_into 5 43 17 22 42 1 
+index_into 11 47 44 37 9 41 16 29 7 16 12 43 
+index_into 4 17 25 3 33 
+print
+setitem 9 406
+append 611
+erase 22
+print
+index_into 19 16 40 23 37 18 12 16 12 46 11 12 47 23 9 18 10 26 20 5 
+setitem 77 132
+print
+getitem 73
+print
+getitem 25
+print
+clear
+print
+index_into 3 23 26 12 
+clear
+insert 84 331
+print
+pop
+swap 79
+append 505
+print
+print
+count 933
+setitem 88 962
+swap 40
+print
+print
+print
+print
+pop
+swap 90
+print
+getitem 58
+index_into 20 19 17 36 40 2 5 24 40 46 31 21 25 12 26 48 7 44 40 42 24 
+getitem 92
+print
+getitem 14
+append 739
+print
+reverse
+insert 53 337
+getitem 33
+pop
+setitem 15 49
+print
+getitem 85
+reverse
+print
+print
+index_into 17 23 0 1 40 21 29 26 38 3 1 29 16 34 45 8 19 32 
+setitem 93 759
+print
+reverse
+print
+setitem 70 571
+print
+setitem 64 474
+print
+print
+getitem 87
+print
+print
+print
+insert 68 728
+getitem 25
+print
+print
+print
+reverse
+print
+erase 65
+print
+index_into 2 33 16 
+swap 30
+append 672
+insert 71 800
+append 200
+index_into 19 15 18 31 50 9 30 44 0 45 42 1 13 20 38 8 26 11 15 11 
+print
+index_into 7 16 31 26 7 44 24 33 
+insert 1 103
+sort 
+print
+insert 46 882
+append 92
+swap 6
+swap 15
+swap 43
+print
+index_into 6 48 28 49 4 0 9 
+sort 
+print
+print
+erase 87
+getitem 63
+erase 68
+getitem 4
+clear
+erase 89
+print
+print
+print
+print
+print
+insert 92 315
+print
+print
+print
+len
+index_into 19 26 36 11 39 32 4 27 38 1 8 4 14 9 25 41 24 39 11 20 
+print
+append 346
+swap 98
+print
+print
+reverse
+len
+erase 51
+print
+print
+clear
+getitem 29
+len
+getitem 85
+erase 5
+erase 80
+pop
+print
+clear
+sort 
+len
+len
+print
+print
+print
+print
+print
+setitem 0 137
+count 614
+clear
+print
+swap 66
+pop
+print
+len
+print
+swap 56
+erase 42
+erase 95
+print
+getitem 68
+len
+swap 69
+getitem 89
+reverse
+append 262
+print
+setitem 46 901
+print
+print
+pop
+reverse
+reverse
+index_into 5 39 34 42 6 14 
+reverse
+len
+pop
+print
+print
+len
+setitem 8 349
+len
+append 866
+print
+clear
+append 524
+print
+getitem 51
+erase 2
+swap 34
+swap 42
+sort 
+sort 
+sort 
+setitem 72 844
+count 955
+print
+print
+len
+sort 
+erase 77
+setitem 59 129
+getitem 34
+print
+sort 
+print
+print
+setitem 43 516
+erase 18
+print
+index_into 13 41 9 10 37 12 30 0 33 20 6 24 40 19 
+getitem 26
+index_into 14 23 8 47 35 24 40 5 8 46 4 27 44 9 37 
+index_into 5 7 17 18 36 22 
+erase 59
+print
+print
+setitem 95 287
+print
+setitem 89 443
+append 534
+swap 93
+sort 
+print
+clear
+print
+print
+append 286
+print
+pop
+swap 97
+clear
+erase 11
+print
+index_into 9 9 6 42 38 39 3 28 30 8 
+reverse
+clear
+count 255
+erase 70
+pop
+reverse
+print
+index_into 2 35 11 
+count 275
+count 902
+print
+clear
+count 358
+print
+setitem 93 244
+print
+append 467
+sort 
+count 772
+erase 46
+swap 78
+erase 0
+print
+print
+sort 
+count 799
+getitem 82
+print
+print
+len
+print
+pop
+swap 40
+append 696
+print
+setitem 19 22
+print
+print
+clear
+setitem 85 359
+print
+setitem 18 310
+clear
+print
+erase 32
+sort 
+pop
+sort 
+erase 33
+len
+print
+erase 18
+print
+sort 
+print
+insert 63 205
+print
+append 745
+len
+insert 43 221
+pop
+print
+print
+index_into 18 7 4 27 17 24 13 46 36 32 9 29 23 26 43 20 28 28 29 
+getitem 10
+swap 84
+len
+len
+setitem 78 403
+erase 54
+erase 19
+print
+sort 
+clear
+insert 32 503
+print
+print
+setitem 52 619
+getitem 92
+clear
+print
+swap 52
+count 288
+print
+setitem 42 527
+print
+erase 29
+getitem 99
+reverse
+clear
+pop
+pop
+pop
+index_into 6 35 6 50 32 2 36 
+index_into 14 3 50 6 23 41 21 7 47 27 24 0 15 19 8 
+erase 59
+erase 82
+count 390
+print
+sort 
+reverse
+print
+len
+print
+insert 86 968
+print
+insert 94 277
+swap 63
+sort 
+getitem 67
+append 795
+swap 46
+erase 82
+getitem 55
+print
+insert 63 276
+reverse
+print
+print
+erase 44
+print
+count 106
+print
+index_into 9 46 10 5 50 35 16 46 48 46 
+len
+len
+print
+len
+len
+len
+pop
+reverse
+erase 84
+setitem 58 543
+print
+sort 
+clear
+len
+append 754
+print
+print
+append 24
+erase 69
+erase 29
+setitem 10 467
+print
+setitem 47 579
+clear
+reverse
+append 463
+sort 
+print
+print
+sort 
+print
+len
+clear
+count 213
+getitem 88
+append 676
+erase 100
+count 672
+sort 
+print
+clear
+print
+erase 53
+append 227
+print
+append 861
+sort 
+clear
+erase 94
+insert 2 666
+setitem 95 440
+count 617
+print
+append 536
+insert 49 657
+print
+setitem 41 153
+index_into 11 32 17 6 49 0 19 49 14 5 34 26 
+print
+print
+insert 100 115
+print
+erase 79
+print
+erase 100
+insert 0 191
+pop
+insert 64 798
+print
+reverse
+swap 26
+append 132
+print
+reverse
+pop
+print
+swap 61
+print
+print
+print
+count 926
+append 323
+len
+index_into 6 26 33 17 44 41 1 
+getitem 38
+sort 
+getitem 25
+reverse
+reverse
+len
+append 950
+insert 88 329
+len
+append 128
+len
+sort 
+swap 19
+print
+sort 
+getitem 92
+append 291
+count 34
+append 494
+index_into 13 50 12 17 2 30 44 35 8 11 17 47 32 5 
+setitem 5 313
+insert 48 722
+getitem 78
+index_into 8 24 26 35 41 32 44 48 18 
+sort 
+append 352
+swap 66
+print
+index_into 16 11 46 18 27 45 18 42 41 11 32 17 26 30 11 17 23 
+insert 87 457
+len
+index_into 15 26 24 30 7 4 27 24 11 0 44 39 36 17 49 21 
+erase 76
+append 884
+count 776
+erase 32
+reverse
+print
+reverse
+pop
+swap 47
+print
+pop
+len
+sort 
+append 520
+print
+erase 6
+

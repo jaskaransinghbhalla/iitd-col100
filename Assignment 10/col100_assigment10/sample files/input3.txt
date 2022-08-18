@@ -1,0 +1,23 @@
+22
+append 50
+append 21
+append 2
+append 99
+print
+pop
+print
+index_into 3 5 6 7
+print
+clear
+print
+sort
+print
+reverse
+print
+pop
+pop
+pop
+append 1
+append 2
+append 3
+print
